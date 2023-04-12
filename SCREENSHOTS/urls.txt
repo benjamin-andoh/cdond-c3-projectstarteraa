@@ -4,7 +4,5 @@ https://github.com/benjamin-andoh/cdond-c3-projectstarteraa
 
 
 [URL02] Public URL for your S3 Bucket
-https://udapeople-f0132b9.s3.amazonaws.com/index.html
+http://udapeople-169d4ee.s3-website-us-east-1.amazonaws.com/#/employees
 
-[URL02] CDN
-https://d3p4n6gjng31xu.cloudfront.net/#/employees/new
